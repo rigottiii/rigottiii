@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rigottiii
+- 👀 meu email de contato é izabely.correia@escola.pr.gov.br
+- 🌱 eu estou interressada em aprender a programar novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 
